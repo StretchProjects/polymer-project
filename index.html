@@ -29,11 +29,22 @@
 
             <link rel="import" href="/bower_components/paper-material/paper-material.html">
             <paper-material style="background: #fff;">
-            
-              <link rel="import" href="/bower_components/google-youtube/google-youtube.html">
-              <google-youtube video-id="y-yugxn9_ec" height="720px" width="1024px" autoplay="0"></google-youtube>
 
-              <p>Some description here</p>
+              <link rel="import" href="/bower_components/paper-button/paper-button.html">
+              <link rel="import" href="/bower_components/iron-icon/iron-icon.html">
+              <link rel="import" href="/bower_components/iron-icons/iron-icons.html">
+              
+              <paper-button id="main-button" raised>
+                <iron-icon icon="save"></iron-icon>
+                Save something
+              </paper-button>
+
+              <style>
+                #main-button {
+                  margin: 16px;
+                  color: red;
+                }
+              </style>
 
             </paper-material>
 
