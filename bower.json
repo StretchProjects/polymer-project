@@ -16,6 +16,7 @@
     "polymer": "Polymer/polymer#~1.0.2",
     "iron-elements": "polymerelements/iron-elements#~1.0.0",
     "paper-elements": "polymerelements/paper-elements#~1.0.1",
-    "google-web-components": "googlewebcomponents/google-web-components#~1.0.1"
+    "google-web-components": "googlewebcomponents/google-web-components#~1.0.1",
+    "country-flags": "hjnilsson/country-flags"
   }
 }
