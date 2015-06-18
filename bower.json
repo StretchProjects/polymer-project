@@ -17,6 +17,7 @@
     "iron-elements": "polymerelements/iron-elements#~1.0.0",
     "paper-elements": "polymerelements/paper-elements#~1.0.1",
     "google-web-components": "googlewebcomponents/google-web-components#~1.0.1",
-    "country-flags": "stretchprojects/country-flags"
+    "country-flags": "stretchprojects/country-flags",
+    "stretch-flags": "StretchProjects/stretch-flags"
   }
 }
